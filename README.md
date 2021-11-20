@@ -7,5 +7,5 @@ Propuesta y resolución de una variación del problema de sincronización ”Pro
 Consumidor” en lenguaje Assembler para la arquitectura 8086, con un fuerte énfasis en
 la interacción con el sistema de entrada y salida (E/S) y el uso de las interrupciones.
 
-Se presenta un documento con la problemática a solucionar, junto con la propuesta de
-soluciones y cómo mejorarlas a futuro.
+Se presenta un documento con la problemática a solucionar junto a las propuestas de
+solucion y cómo mejorarlas a futuro, además del manejo del código fuente.
